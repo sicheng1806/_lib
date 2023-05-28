@@ -1,0 +1,1 @@
+from __functools.my_functools import T2,T2_and,T2_or,Fn
