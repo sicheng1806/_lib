@@ -2,7 +2,7 @@ from collections.abc import Iterable
 
 
 class StrTools:
-
+    '''字符串的工具类'''
     @staticmethod
     def split_index(string:str,iterable:Iterable[int]) -> list[str]:
         '''按索引分割字符串'''

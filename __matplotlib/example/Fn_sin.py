@@ -1,5 +1,5 @@
 from __functools import Fn
-from _matplotlib import changeToMath
+from __matplotlib import changeToMath
 import matplotlib.pyplot as plt
 import numpy as np
 
